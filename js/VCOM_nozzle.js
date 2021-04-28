@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">nozzle</div><div class="blurb"><p class="short">A <i>nozzle</i> is the spout at the end of a hose that water flows through.</p><p class="long">Any kind of fluid — oil, gasoline — can move through a tube and squirt out of a nozzle, but we usually think of water in a hose, with the nozzle controlling the spray. The root of <i>nozzle</i> is nose, which — if you use a little imagination — describes the shape of most nozzles.</p></div>`;
+window.parent.postMessage(custom_content,'*');

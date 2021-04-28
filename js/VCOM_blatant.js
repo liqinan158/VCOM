@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">blatant</div><div class="blurb"><p class="short">Something <i>blatant</i> is very obvious and offensive. Don't get caught in a <i>blatant</i> lie, because you won't be able to weasel your way out of it.</p><p class="long"><i>Blatant</i> acts are done without trying to hide them. This adjective is probably from Latin <i>blaterare</i> "to chatter, croak" or Latin <i>blatīre</i> "to chatter, gossip." A near synonym is <i>flagrant</i>.</p></div>`;
+window.parent.postMessage(custom_content,'*');

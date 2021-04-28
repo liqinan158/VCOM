@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">leonine</div><div class="blurb"><p class="short">If you are <i>leonine</i> you resemble a lion in either good or bad ways.</p><p class="long">Lions are both feared and loved. They are kings of the jungle, agile merciless majestic hunters. If you have leonine courage, you are as strong and brave as a lion. However, if you have a leonine mane, that might suggest that you're having a bad hair day.</p></div>`;
+window.parent.postMessage(custom_content,'*');

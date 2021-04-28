@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">kindness</div><div class="blurb"><p class="short">If someone asks you to do them a <i>kindness</i>, they mean a nice, kind act, the kind that makes you think of puppies and daisies.</p><p class="long">The noun <i>kindness</i> can be used for a kind act or to describe someone's temperament. You might say of someone that her kindness is quite genuine, or on the other hand she fakes kindness to get what she wants.</p></div>`;
+window.parent.postMessage(custom_content,'*');

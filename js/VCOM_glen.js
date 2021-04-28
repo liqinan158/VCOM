@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">glen</div><div class="blurb"><p class="short">A <i>glen</i> is a narrow valley deep in the mountains. <i>Glens</i> often form streams.</p><p class="long">The top of a mountain is the peak, and the lower parts are valleys. A glen is a valley that's narrow and secluded—it’s deep in the mountains. A glen could form a stream, or it could be lush and green. If you are on top of a mountain looking down, you may see several glens.</p></div>`;
+window.parent.postMessage(custom_content,'*');

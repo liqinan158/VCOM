@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">porridge</div><div class="blurb"><p class="short"><i>Porridge</i> is a thick, warm type of food similar to oatmeal. It's often a breakfast food.</p><p class="long">When you boil oats in milk or water, the end result of porridge. Porridge is served in a bowl and eaten with a spoon. It’s usually served for breakfast and is famous for appearing in the fairy tale of Goldilocks. Porridge is the food that's too hot, too cold, and then just right.</p></div>`;
+window.parent.postMessage(custom_content,'*');

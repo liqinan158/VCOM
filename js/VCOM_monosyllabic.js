@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">monosyllabic</div><div class="blurb"><p class="short">Any word or sound made up of just one syllable can be described with the adjective <i>monosyllabic</i>.</p><p class="long"><i>Monosyllabic</i> comes from the Greek prefix <i>monos</i>, "single," and <i>syllabe</i>, "syllable." You can also describe a person who tends to talk this way, in grunts or short words, as monosyllabic, like your cranky old grandpa or a newly verbal toddler.</p></div>`;
+window.parent.postMessage(custom_content,'*');

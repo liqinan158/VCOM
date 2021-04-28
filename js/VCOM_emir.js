@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">emir</div><div class="blurb"><p class="short">An <i>emir</i> is a ruler or commander, especially in Africa or Arabia.</p><p class="long"><i>Emir</i> comes from an Arabic word for "commander." An emir is a chieftain or independent ruler who has power over a province or tribe. An emir might be a prince or just a military commander. You will only hear about emirs in places where the Arabic language has an influence.</p></div>`;
+window.parent.postMessage(custom_content,'*');

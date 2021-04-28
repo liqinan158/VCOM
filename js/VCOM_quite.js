@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">quite</div><div class="blurb"><p class="short"><i>Quite</i> means "really," "completely," "rather," "exceptionally," or "actually." That's <i>quite</i> a lot of synonyms for one word!</p><p class="long">If you're quite sure, you're completely sure. If you're quite the athlete, you are exceptionally (or unusually) athletic. If it's quite cold outside, it's really cold. And if something is quite true, it actually is. Is that quite clear?</p></div>`;
+window.parent.postMessage(custom_content,'*');

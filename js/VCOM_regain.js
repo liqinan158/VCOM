@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">regain</div><div class="blurb"><p class="short">After you get off of a crazy carnival ride, you'll probably have to <i>regain</i> your balance, or get it back.</p><p class="long">Any time you've lost something and want to recover it, you hope to regain it. If your friend is furious with you because you didn't keep a secret she told you, you'll probably try to regain her trust and as a result, regain her friendship.</p></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">minuet</div><div class="blurb"><p class="short">A <i>minuet</i> is a 17th-century court dance. It's also the music that goes with that dance.</p><p class="long">The minuet is a fancy, stately dance from the 17th century performed by members of a court. Two people dance a minuet, and it’s performed in triple time. Throughout 17th century Europe, the minuet was extremely popular. A minuet can also be the music that accompanied the dance.</p></div>`;
+window.parent.postMessage(custom_content,'*');

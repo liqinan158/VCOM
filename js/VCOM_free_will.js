@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">free will</div><div class="blurb"><p class="short"><i>Free will</i> is the freedom to make choices for yourself.</p><p class="long">Some think our decisions and actions are predetermined by fate or a god, so even if we think we have free will, we don't. If someone blackmails you or forces you to do something by force, they're taking away your free will by limiting your choices. When you have free will, you are in charge of your destiny.</p></div>`;
+window.parent.postMessage(custom_content,'*');

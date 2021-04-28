@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">gamete</div><div class="blurb"><p class="short">A <i>gamete</i> is the male or female reproductive cell that contains half the genetic material of the organism.</p><p class="long">When two human gametes meet — that is, a sperm cell and an ovum — you get a zygote, a fertilized egg. And, if all goes well, that zygote will become a human baby.</p></div>`;
+window.parent.postMessage(custom_content,'*');

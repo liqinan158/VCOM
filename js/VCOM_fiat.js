@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">fiat</div><div class="blurb"><p class="short">You might think a <i>fiat</i> is just an Italian car, but it actually means a legal, authoritative decision that has absolute sanction.</p><p class="long">From the Latin for "let it be done," the word <i>fiat</i> is a binding edict issued by a person in command. It  can gain an almost Biblical aura of authority, like a movie Pharaoh saying, "So let it be written, so let it be done." So let it be a fiat.</p></div>`;
+window.parent.postMessage(custom_content,'*');

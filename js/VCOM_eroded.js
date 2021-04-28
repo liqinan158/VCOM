@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">eroded</div><div class="blurb"><p class="short">When cliffs are gradually worn away by currents and pounding ocean waves, we consider them <i>eroded.</i></p><p class="long"><i>Eroded</i> comes from the Latin word <i>erodere</i> "to eat away." It doesn't just refer to things like sediment and dirt. If someone is consistently unreliable, your confidence in that person will gradually become eroded.</p></div>`;
+window.parent.postMessage(custom_content,'*');

@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">behoove</div><div class="blurb"><p class="short">To <i>behoove</i> someone to do something is to make it advisable or necessary to do so, for their own good or that of others.</p><p class="long">It would behoove you to study hard and work for the future you desire. It would behoove the legislature to pass a law behooving citizens to pay their taxes earlier. <i>Behoove</i> comes from the Old English word <i>behofian</i>, which means "to be of use."</p></div>`;
+window.parent.postMessage(custom_content,'*');

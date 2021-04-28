@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/><div class="headword">lunge</div><div class="blurb"><p class="short">To <i>lunge</i> is to move forward suddenly, often in a thrusting manner. A parent might <i>lunge</i> to grab a runaway child.</p><p class="long">Lunging is not usually a graceful movement. A lunge is quick and desperate. If it suddenly rains, people will lunge to get under an awning. In football, when the ball is hiked, the linemen lunge at each other. Lunging always involves moving forward.</p></div>`;
+window.parent.postMessage(custom_content,'*');
